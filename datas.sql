@@ -1,4 +1,4 @@
-CREATE DATABASE zomato;
+ CREATE DATABASE zomato;
 
 USE zomato;
 
