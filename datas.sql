@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS orders (
     order_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Insert sample data into orders table
+--sample data
 INSERT INTO orders (user_id, item_id, quantity, delivery_address) VALUES
 (1, 1, 2, '123 Main St'),
 (2, 2, 1, '456 Oak Rd'),
